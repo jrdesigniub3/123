@@ -112,7 +112,7 @@
     "aws4": "^1.11.0",
     "axios": "^0.25.0",
     "boxen": "^5.0.0",
-    "cfonts": "^2.8.5",
+    "cfonts": "^3.1.1",
     "change-case": "^4.1.2",
     "chokidar": "^3.5.3",
     "chrome-launcher": "^0.15.0",
